@@ -5,5 +5,5 @@ description:  Designed a fully-functional waterwheel using Rhino3D. Converted 3D
 skills: 
 - Rhino3D (CAD Modeling)
 - Waterjet manufacturing
-main-image: /project.webp 
+main-image: /project/omax.jpg 
 ---
