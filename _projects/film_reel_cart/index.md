@@ -4,5 +4,5 @@ title: Film Reel Cart Design
 description: Made 3D model of film cart
 skills: 
 - Creo Parametric
-main-image: /project.webp 
+main-image: /creo.jpg
 ---
