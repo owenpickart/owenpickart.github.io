@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Film Reel Cart Design
-description: Designed, modeled, and made technical drawings of a film reel cart for use in a food manufacturing facility.
+title: Film Reel Cart Redesign
+description: Redesigned film reel cart for use in a food manufacturing facility.
 skills: 
 - Creo Parametric
 main-image: /creo.jpg
@@ -16,4 +16,6 @@ main-image: /creo.jpg
 {% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
 - **Communicated** drawings with fabricators, receiving a quote for its contruction
 - Film cart is **currently in use** in a food manufacturing facility
+## Other Details
+This project was done during my time as an Engineering Intern at Jack Link's Protein Snacks in June 2024
 ---
