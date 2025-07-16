@@ -7,17 +7,15 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Portfolio - Owen Pickart # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Owen Pickart
+headline: Mechanical Engineering Student at the University of Wisconsin
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I have had the opportunity to work on some interesting projects in my work and school experience, and this is where I display them!
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
