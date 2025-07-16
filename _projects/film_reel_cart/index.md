@@ -13,7 +13,7 @@ main-image: /creo.jpg
   - **elimination** of film damage as a result of contact stress
   - the film reel able to slide onto the cart from the side **improving the ergonomic capabilities** of the cart
   - a **simplified** design with more **efficient material usage**
-{% include image-gallery.html images="{origfilmcart.jpg}, {newfilmcart.jpg}" height="400" %}
+{% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
 - **Communicated** drawings with fabricators, receiving a quote for its contruction
-- Film cart is **currently used** in a food manufacturing facility
+- Film cart is **currently in use** in a food manufacturing facility
 ---
