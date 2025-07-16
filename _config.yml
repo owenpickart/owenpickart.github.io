@@ -15,7 +15,7 @@ title: Portfolio - Owen Pickart # This is what shows up in the tab of the browse
 name: Owen Pickart
 headline: Mechanical Engineering Student at the University of Wisconsin
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I have had the opportunity to work on some interesting projects in my work and school experience, and this is where I display them!
+  My portfolio
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
