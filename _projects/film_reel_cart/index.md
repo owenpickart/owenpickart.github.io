@@ -16,6 +16,9 @@ main-image: /creo.jpg
 {% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
 - **Communicated** drawings with fabricators, receiving a quote for its contruction
 - Film cart is **currently in use** in a food manufacturing facility
+
 ---
+
 Project done as **Engineering Intern, Jack Link's Protein Snacks, June 2024**
+
 ---
