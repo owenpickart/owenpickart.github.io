@@ -60,6 +60,7 @@ skills:
     - EES
     - Arduino
   - category: Other Skills
+    tools:
     - FEA
     - Fatigue Analysis
     - Static Force Analysis
