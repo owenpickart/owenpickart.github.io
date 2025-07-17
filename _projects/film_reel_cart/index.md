@@ -10,12 +10,16 @@ main-image: /creo.jpg
 - **Created model and technical drawings** of existing film reel cart using **Creo Parametric**
 - **Observed** cart in use by operators, **identified** and **communicated potential design improvements** to engineering team
 - **Realized design changes in model**, including a arc-shaped bed for the film and redesign of the support resulting in:
-  - **elimination** of film damage as a result of contact stress
-  - the film reel able to slide onto the cart from the side **improving the ergonomic capabilities** of the cart
-  - a **simplified** design with more **efficient material usage**
-{% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
+  > **elimination** of film damage as a result of contact stress
+  > the film reel able to slide onto the cart from the side **improving the ergonomic capabilities** of the cart
+  > a **simplified** frame with more **efficient material usage**
 - **Communicated** drawings with fabricators, receiving a quote for its contruction
 - Film cart is **currently in use** in a food manufacturing facility
+
+---
+
+### Orginal Design vs. Redesign
+{% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
 
 ---
 
