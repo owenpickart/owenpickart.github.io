@@ -18,8 +18,8 @@ main-image: /creo.jpg
 
 ---
 
-## Orginal Design vs. Redesign
-
+## Original Design vs. Redesign
+<br>
 {% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="550" %}
 
 ---
