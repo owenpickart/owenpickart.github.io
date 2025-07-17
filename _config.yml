@@ -13,9 +13,9 @@ title: Owen Pickart | Mechanical Engineering Portfolio # This is what shows up i
 
 # Hero Section
 name: Owen Pickart
-headline: Mechanical Engineering Student at the University of Wisconsin
+headline: Mechanical Engineering Student at the University of Wisconsin-Madison
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  My portfolio
+  I am a senior mechanical engineering student at the University of Wisconsin-Madison with hands-on experience in fabrication, manufacturing, and design. Throughout my time as a student and an intern, I have had the opportunity to work on multiple projects and wanted to display them here. Thank you for taking the time to view my portfolio!
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -57,6 +57,14 @@ skills:
     - C
     - R
     - Matlab
+    - EES
+    - Arduino
+  - category: Other Skills
+    - FEA
+    - Fatigue Analysis
+    - Static Force Analysis
+    - Dynamic Force Analysis
+    - Ladder Logic
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
