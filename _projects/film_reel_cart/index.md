@@ -21,4 +21,3 @@ main-image: /creo.jpg
 
 Project done as **Engineering Intern, Jack Link's Protein Snacks, June 2024**
 
----
