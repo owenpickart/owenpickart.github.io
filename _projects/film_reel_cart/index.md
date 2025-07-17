@@ -18,8 +18,9 @@ main-image: /creo.jpg
 
 ---
 
-### Orginal Design vs. Redesign
-{% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="400" %}
+## Orginal Design vs. Redesign
+
+{% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="550" %}
 
 ---
 
