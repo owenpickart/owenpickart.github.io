@@ -8,5 +8,6 @@ skills:
 - Material Selection
 - Fatigue Analysis
 - EES
-main-image: /project.webp 
+main-image: /shaft1.jpg
 ---
+
