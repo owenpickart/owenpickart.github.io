@@ -13,5 +13,7 @@ main-image: /omax.jpg
 - Converted 3D model into flat sheet metal parts, inputting them into OMAX CAM software for machining
 - Machined all parts out of stainless steel sheets using OMAX 80X JetMachining center, which were then assembled by shop team
 - Waterwheel is currently displayed in a Bass Pro Shops location
+
 ---
+
 Project done as **Waterjet Operator/Programmer, COST Inc, July 2023**
