@@ -21,6 +21,7 @@ main-image: /creo.jpg
 ## Original Design vs. Redesign
 <br>
 {% include image-gallery.html images="origfilmcart.jpg, newfilmcart.jpg" height="550" %}
+<br>
 
 ---
 
