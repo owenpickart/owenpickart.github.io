@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - FEA
 - Design Study
-main-image: /project.webp 
+main-image: /drone3.jpg
 ---
 ## Detailed Description
 - Simulated VM stress and displacement on original frame using **SolidWorks FEA** to identify stress concentrations in two test cases
