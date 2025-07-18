@@ -22,7 +22,7 @@ main-image: /shaft1.jpg
 
 ## Model and Drawing of Counter Shaft
 <br>
-{% include image-gallery.html images="shaft2.jpg, shaft3.jpg" height="250" %}
+{% include image-gallery.html images="shaft2.jpg, shaft3.jpg" height="275" %}
 <br>
 
 ---
