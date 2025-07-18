@@ -21,14 +21,14 @@ main-image: /project.webp
 
 ## Original Design vs. Optimized Design
 <br>
-{% include image-gallery.html images="drone1.jpg, drone2.jpg" height="550" %}
+{% include image-gallery.html images="drone1.jpg, drone2.jpg" height="350" %}
 <br>
 
 ---
 
 ## Final Technical Drawing of Optimized Design
 <br>
-{% include image-gallery.html images="dronedwg.jpg" height="800" %}
+{% include image-gallery.html images="dronedwg.jpg" height="1000" %}
 <br>
 
 ---
