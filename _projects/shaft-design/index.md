@@ -8,7 +8,7 @@ skills:
 - Material Selection
 - Fatigue Analysis
 - EES
-main-image: /shaft1.jpg
+main-image: /shaft4.jpg
 ---
 ## Detailed Description
 - Constructed **free body, shear, moment, and torque diagrams** for the input, counter, and output shafts of the speed reducer given module and speed ratio
