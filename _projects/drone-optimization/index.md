@@ -7,7 +7,7 @@ skills:
 - FEA
 - Design Study
 - Drafting
-main-image: /drone3.jpg
+main-image: /drone4.jpg
 ---
 ## Detailed Description
 - Simulated stress and displacement on original frame using **SolidWorks FEA** to identify stress concentrations in hover and lift test cases
