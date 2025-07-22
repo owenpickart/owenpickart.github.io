@@ -59,6 +59,12 @@ skills:
     - Matlab
     - EES
     - Arduino
+  - category: Manufacturing Processes
+    tools:
+    - Waterjet Cutting
+    - CNC Lathe
+    - CNC Mill
+    - Woodworking
   - category: Other Skills
     tools:
     - FEA
