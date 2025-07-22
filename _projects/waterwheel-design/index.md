@@ -9,7 +9,7 @@ skills:
 main-image: /omax.jpg 
 ---
 ## Detailed Description
-- **Communicated** with engineering team to determine proper specifications
+- **Designed** waterwheel with engineering team, considering dimensions, machinability, and function
 - Created overall **3D model** of waterwheel using **Rhino3D**
 - **Converted** 3D model into flat **sheet metal parts**, inputting them into OMAX CAM software for machining
 - **Machined** all parts out of stainless steel sheets using OMAX 80X JetMachining center, which were then assembled by shop team
