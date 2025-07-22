@@ -10,12 +10,11 @@ skills:
 main-image: /drone3.jpg
 ---
 ## Detailed Description
-- Simulated VM stress and displacement on original frame using **SolidWorks FEA** to identify stress concentrations in two test cases
-- Conducted a **topology study** using **SolidWorks** to identify areas of the frame that could be removed whilst maintaining required strength
-- Created a preliminary design focused on weight reduction in areas with low concentration as well as injection molding machinability
-- Conducted a **design study** to adjust various dimensions on the frame to ensure maximum mass reduction while staying below required stress threshold
-- Ensured resulting frame from design study had adequate stress levels through **SolidWorks FEA**
-- Final optimized design resulted in a **55.4% reduction in mass**
+- Simulated stress and displacement on original frame using **SolidWorks FEA** to identify stress concentrations in hover and lift test cases
+- Conducted a **topology study** using **SolidWorks FEA** to identify low-stress areas of the frame suitable for material removal
+- **Designed a revised frame** by removing areas of the frame with low stress conectration while maintaining **injection molding machinability**
+- Conducted a **design study** to iterate various dimensions on the frame, ensuring maximum mass reduction while maintaining required stress and displacement thresholds
+- Obtained final design for drone frame resulting in a **55.4% reduction of overall mass** while maintaining structural integrity
 - Created technical drawing of final optimized design using **SolidWorks**
 
 ---
