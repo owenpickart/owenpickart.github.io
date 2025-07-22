@@ -4,7 +4,7 @@ title: Film Reel Cart Redesign
 description: Redesigned film reel cart for use in a food manufacturing facility.
 skills: 
 - Creo Parametric
-main-image: /creo.jpg
+main-image: /filmcartrender.jpg
 ---
 ## Detailed Description
 - **Created model and technical drawings** of existing film reel cart using **Creo Parametric**
