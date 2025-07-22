@@ -6,6 +6,7 @@ skills:
 - SolidWorks
 - FEA
 - Design Study
+- Drafting
 main-image: /drone3.jpg
 ---
 ## Detailed Description
